@@ -1,0 +1,13 @@
+button {
+    /* Aquí van los estilos del botón */
+    background-color: #4CAF50; /* Color de fondo verde */
+    color: white; /* Texto blanco */
+    padding: 15px 32px; /* Espacio interno */
+    text-align: center; /* Centra el texto */
+    text-decoration: none; /* Quita la decoración del texto */
+    display: inline-block; /* Permite que el botón se muestre en línea */
+    font-size: 16px; /* Tamaño de la fuente */
+    border: 2px solid white; /* Borde blanco de 2px */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor a una mano al pasar el ratón */
+  }
